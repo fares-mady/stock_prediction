@@ -1,7 +1,7 @@
 # 📈 Stock Price Prediction with LSTM
 This project provides a deep learning-based approach to forecast stock prices using Long Short-Term Memory (LSTM) neural networks. It fetches historical stock data from Yahoo Finance, preprocesses it, trains an LSTM model per stock, and visualizes both short-term predictions and future price forecasts.
 
-🚀 Features:
+**🚀 Features:**
 * 📥 Automatic Data Fetching from Yahoo Finance
 
 * 🔄 Data Preprocessing and Scaling
@@ -14,7 +14,7 @@ This project provides a deep learning-based approach to forecast stock prices us
 
 * 🧩 Modular Design — Easily extend or plug in other models
 
-🛠️ Tech Stack:
+**🛠️ Tech Stack:**
 * Python
 
 * pandas, numpy, yfinance
@@ -24,3 +24,20 @@ This project provides a deep learning-based approach to forecast stock prices us
 * scikit-learn
 
 * TensorFlow / Keras
+
+**📦 Installation:**
+git clone https://github.com/your-username/stock-lstm-predictor.git
+cd stock-lstm-predictor
+pip install -r requirements.txt
+
+**🧪 How to Use:**
+python your_script_name.py
+Or modify the main() function to test specific stocks or adjust prediction days.
+
+**📝 Example Output**
+* Training vs Predicted prices
+
+* Future forecast plotted on the same chart
+
+* Console output of future predicted values
+
