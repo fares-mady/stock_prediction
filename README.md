@@ -26,7 +26,7 @@ This project provides a deep learning-based approach to forecast stock prices us
 * TensorFlow / Keras
 
 **📦 Installation:**
-git clone https://github.com/your-username/stock-lstm-predictor.git
+git clone https://github.com/fares-mady/stock-lstm-predictor.git
 cd stock-lstm-predictor
 pip install -r requirements.txt
 
