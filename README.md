@@ -40,4 +40,7 @@ Or modify the main() function to test specific stocks or adjust prediction days.
 * Future forecast plotted on the same chart
 
 * Console output of future predicted values
-
+![example](amazon stock prediction.png)
+![example](apple stock prediction.png)
+![example](google stock prediction.png)
+![example](microsoft stock prediction.png)
